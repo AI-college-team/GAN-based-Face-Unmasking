@@ -1,5 +1,5 @@
 # Yoon
-# FaceMask Removal (FaceMask Inpainting)
+# FaceMask_edit Removal (FaceMask Inpainting)
 ## 김산하 수정 테스트   
 
 ## Environments
